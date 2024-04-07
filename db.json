@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "4cac",
+      "firstName": "big p232",
+      "lastName": "p",
+      "email": "p@asd.com",
+      "dob": "2010-10-10T05:00:00.000Z",
+      "gender": "female",
+      "educationLevel": "Mid level",
+      "workExperience": 2,
+      "salary": 211
+    },
+    {
+      "id": "7a4b",
+      "firstName": "abra",
+      "lastName": "cad",
+      "email": "aber@mirster.com",
+      "dob": "1999-12-12T05:00:00.000Z",
+      "gender": "male",
+      "educationLevel": "Beginner",
+      "workExperience": 2,
+      "salary": 31
+    },
+    {
+      "id": "a0ec",
+      "firstName": "12",
+      "lastName": "12",
+      "email": "123",
+      "dob": "2001-12-05T05:00:00.000Z",
+      "gender": "male",
+      "educationLevel": "Beginner",
+      "workExperience": 2,
+      "salary": 2
+    }
+  ]
+}
